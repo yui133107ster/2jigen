@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>原作DramaTrack · soba二次元倉庫</title>
+    <link>https://example.org/categories/%E5%8E%9F%E4%BD%9Cdramatrack/</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>&#169; 2026 soba二次元倉庫</copyright>
+    <lastBuildDate>Wed, 09 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/categories/%E5%8E%9F%E4%BD%9Cdramatrack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drama「魔女們的下午」</title>
+      <link>https://example.org/posts/chuou_halloween/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/chuou_halloween/</guid>
+      <description>長度6分06秒．原題「魔女たちの昼下がり」（如無此行字，就會顯示全部內文）</description>
+      <category>中王區</category>
+      <category>乙統女</category>
+      <category>無花果</category>
+      <category>合歡</category>
+    </item>
+  </channel>
+</rss>

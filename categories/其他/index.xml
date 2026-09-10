@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>其他 · soba二次元倉庫</title>
+    <link>https://example.org/categories/%E5%85%B6%E4%BB%96/</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>&#169; 2026 soba二次元倉庫</copyright>
+    <lastBuildDate>Wed, 09 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/categories/%E5%85%B6%E4%BB%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ヒプドリ主線故事第7章</title>
+      <link>https://example.org/posts/pic_in_po/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/pic_in_po/</guid>
+      <description>如果唔寫呢行字，就會顯示哂內文。但一禁入去就睇唔到。</description>
+      <category>新宿</category>
+      <category></category>
+      <category></category>
+      <category></category>
+    </item>
+    <item>
+      <title>初投稿だよ！</title>
+      <link>https://example.org/posts/202609_firstpost/</link>
+      <pubDate>Tue, 08 Sep 2026 19:49:13 +0800</pubDate>
+      <guid>https://example.org/posts/202609_firstpost/</guid>
+      <description>シンジュクの住人なら基本LOVEだよ（ヒプマイの話）
+特に衢くんと寂雷先生が好き。おさななは妖精。
+スマホのゲームはARBしかやってない。
+English font in post
+跟工程師沾不上邊的我等素人實在難以掌握orzzzzzz</description>
+      <category>衢</category>
+      <category>寂雷</category>
+      <category>新宿</category>
+    </item>
+  </channel>
+</rss>
